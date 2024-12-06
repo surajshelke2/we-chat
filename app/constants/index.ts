@@ -17,12 +17,12 @@ export const sidebarLinks =[
     },
     {
         label:"Recordings",
-        route:'/Recordings',
+        route:'/recording',
         imgUrl:'/icons/Video.svg'
     },
     {
         label:"Personal Room",
-        route:'/presonal-room',
+        route:'/personal-room',
         imgUrl:'/icons/add-personal.svg'
     },
 ]
