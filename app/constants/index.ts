@@ -26,3 +26,5 @@ export const sidebarLinks =[
         imgUrl:'/icons/add-personal.svg'
     },
 ]
+
+export const SIGNALING_SERVER_URL = "ws://localhost:300";
